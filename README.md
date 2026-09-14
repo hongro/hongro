@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hongro
-- 👀 I’m currently working on cloud application development on AWS
+- 👀 I want to be an exceptional software engineer
 - 🌱 Thanks for checking out my profile!
 
 <!---
